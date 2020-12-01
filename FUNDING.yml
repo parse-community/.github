@@ -1,6 +1,6 @@
 # These are supported funding model platforms, find out more https://help.github.com/en/articles/displaying-a-sponsor-button-in-your-repository
 
-github: # up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+github: parse-community # up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 patreon: # single Patreon username
 open_collective: parse-server # single Open Collective username
 ko_fi: # single Ko-fi username
